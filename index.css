@@ -301,8 +301,7 @@ footer ul a:hover{
 }
 /* media */
 
-@media (max-width: 991px) {
-  .navbar-collapse .nav-item .nav-link {
-    color: #ffffff;
-  }
+
+.all-page{
+    width: 110%;
 }
