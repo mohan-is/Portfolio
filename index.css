@@ -108,6 +108,9 @@ p{
     }
 }
 /* navbar */
+.navbar .container{
+  width: 90%;
+}
 
 nav.r-nav{
     background: transparent;
