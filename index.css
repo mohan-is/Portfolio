@@ -296,11 +296,3 @@ footer ul a:hover{
     color: #ffffff;
     transition: 0.5s ease-in-out;
 }
-/* media */
-
-
-@media (max-width: 991px) {
-  .navbar-collapse .nav-item .nav-link {
-    color: #ffffff;
-  }
-}
