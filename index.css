@@ -4,6 +4,7 @@ html {
 }
 
 body{
+  overflow: hidden;
   width:100%;
   font-family: "Jost", sans-serif;
 }
@@ -296,4 +297,5 @@ footer ul a:hover{
     color: #ffffff;
     transition: 0.5s ease-in-out;
 }
+
 
